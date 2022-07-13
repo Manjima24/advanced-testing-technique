@@ -21,7 +21,7 @@ Code Climate Test Coverage
 
 AWS Code Build
 
-[![AWS Badge]](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiR0lIc1B2R0RBNHlrUldxKzZCSlRhalRvK1FodkJKWGs2aXRRWkNlMWdnZGFUMDhyODJkMVlNTXVmTjV3aHlIQTdkOHdneUhUQi9NUGtoZFlTYnFxNy9VPSIsIml2UGFyYW1ldGVyU3BlYyI6ImRBdzBBTGpsSzBVMGtSUmwiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+[![AWS Badge]](https://codebuild.us-east-1.amazonaws.com/badges?[uuid=eyJlbmNyeXB0ZWREYXRhIjoiR0lIc1B2R0RBNHlrUldxKzZCSlRhalRvK1FodkJKWGs2aXRRWkNlMWdnZGFUMDhyODJkMVlNTXVmTjV3aHlIQTdkOHdneUhUQi9NUGtoZFlTYnFxNy9VPSIsIml2UGFyYW1ldGVyU3BlYyI6ImRBdzBBTGpsSzBVMGtSUmwiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiQ25NUWFaMytwVFJSRFBhVXpsbG1Gbk5ITnBqMUxEQXE2YmdsVDlqc1labUloVWRURE9kZmRTSURjam03bU9DaTJoUlRhMlpsdjZ3OXFQOWdXZmV5NzZnPSIsIml2UGFyYW1ldGVyU3BlYyI6IjNzakF2WGQ1MVpmekliYW8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 # advanced-testing-techniques
 This is a repo for doing advanced testing
